@@ -62,9 +62,11 @@ Welcome!
 2. *Final*
 3. *Group presentation*
 
+
+
 ## Capstone 1: Take-home exam
 
-
+*Note: Replace with another written assignment - multiple policy briefs? *
 
 ## Capstone 2: Mini-grant proposal
 
