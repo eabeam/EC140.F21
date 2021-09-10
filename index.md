@@ -40,6 +40,8 @@ output: html_document
 
 # Capstone 1: Policy Memo
 
+[Print-friendly version (pdf)](capstone-01_f21.pdf)
+
 ## Learning Objectives 
 
 1. Demonstrate understanding of key topics in Unit 1
