@@ -24,7 +24,7 @@ output: html_document
 
 ## Syllabus 
 
-[Fall 2020 syllabus](files/ec140_syllabus_f21.pdf)
+[Fall 2021 syllabus](files/ec140_syllabus_f21.pdf)
 
 
 
@@ -35,28 +35,6 @@ output: html_document
 | Reading responses    | 20%  |
 | Class participation  | 20%  |
 | Capstone assignments | 60%  |
-
-<!-- *Notes: F2020 was 35%/20%/45%. In the future, will scaffold capstone assignment more, pull out some of RR weight* 
-
-
-
-
-
-# Capstone
-
- *F2020 was the following:*
-
-1. *Take-home exam*
-2. *Mini-grant proposal*
-3. Policy brief
-
-*F2018 was the following:*
-
-1. *Midterm*
-2. *Final*
-3. *Group presentation*
-
---> 
 
 
 
@@ -144,17 +122,25 @@ We will have a remote activity to work with the drafts.
 
 
 
+## Grading 
+
+10% of your grade is based on your Rough Draft 
+
+90% of your grade is based on your Final Draft
+
+
+
 ## Capstone 2: Mini-grant proposal
-<!-- 
+** Not yet updated for Fall 2021, review with caution!** 
 [Project Overview](files/EC140_Proposal.pdf)
 
-[Rubric](files/MiniGrant_Rubric_EC140.pdf) --> 
+[Rubric](files/MiniGrant_Rubric_EC140.pdf) 
 
 
 
 ## Capstone 3: Policy brief
-<!--
+** Not yet updated for Fall 2021, review with caution!** 
 [Capstone 03 Overview](files/EC140_Cap3_Specifications.pdf)
 
- [Rubric](files/PolicyBrief_Rubric_EC140.pdf) --> 
+ [Rubric](files/PolicyBrief_Rubric_EC140.pdf) 
 
