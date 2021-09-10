@@ -1,0 +1,372 @@
+\documentclass[11pt]{article}
+
+
+
+
+\usepackage[sfdefault]{FiraSans} %% option 'sfdefault' activates Fira Sans as the default text font
+\usepackage[T1]{fontenc}
+\renewcommand*\oldstylenums[1]{{\firaoldstyle #1}}
+
+\usepackage{natbib}
+\usepackage[french,english]{babel}
+\usepackage{numprint}
+\usepackage{multirow}
+\usepackage{rotating}
+\usepackage{fancyhdr}
+\usepackage{booktabs}
+\usepackage{multicol}
+\usepackage{hyperref}\hypersetup{colorlinks=true}
+
+\usepackage{amsmath,amssymb,amsfonts,textcomp}
+\usepackage{color}
+\usepackage{calc}
+ \setlength{\tabcolsep}{8pt}
+\usepackage{setspace}
+\onehalfspacing
+\usepackage{longtable}
+\usepackage{graphicx}
+\usepackage[margin=1in]{geometry}
+\setlength{\parindent}{0pt}
+\usepackage[bottom]{footmisc}
+\pagestyle{fancy}
+\usepackage{titlesec}
+\usepackage{lipsum}
+\usepackage{cancel}
+\usepackage{multicol}
+
+\usepackage{amsmath,amssymb}
+\usepackage{lmodern}
+\usepackage{iftex}
+\ifPDFTeX
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provide euro and other symbols
+\else % if luatex or xetex
+  \usepackage{unicode-math}
+  \defaultfontfeatures{Scale=MatchLowercase}
+  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+
+\titleformat{\section}
+  {\normalfont\Large\scshape\bfseries}{\thesection}{1em}{}
+  \titlespacing{\section}{0pt}{10pt}{0pt}
+\titleformat{\subsection}
+  {\normalfont\bfseries}{\thesection}{1em}{}
+  \titlespacing{\subsection}{0pt}{6pt}{0pt}
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}\newenvironment{itemize*}%
+
+  
+\lhead{EC140 - Economic Development}
+\rhead{Version: \today}
+\setlength\parskip{0.10in}
+\begin{document}
+\thispagestyle{plain}
+\singlespacing
+
+
+Version: \today \hfill Fall 2021\\
+EC140: Economic Development
+%\vspace{1.5cm}
+\begin{center}
+\Large{\textbf{Capstone 1: Policy Memo}}\\
+\end{center}
+\bigskip
+
+%
+%\hypertarget{ec140-economic-development}{%
+%\section{EC140 Economic Development}\label{ec140-economic-development}}
+%%
+%{[}TOC{]}
+%
+%\hypertarget{learning-objectives}{%
+%\subsection{Learning Objectives}\label{learning-objectives}}
+%
+%\begin{longtable}[]{@{}
+%  >{\raggedright\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.10}}
+%  >{\raggedright\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.90}}@{}}
+%\toprule
+%& \\
+%\midrule
+%\endhead
+%\textbf{LO1} & To synthesize a range of voices and perspectives and
+%develop a broad understanding of the determinants of poverty and
+%economic growth. \\
+%\textbf{LO2} & To use economic theory to understand barriers to economic
+%growth, challenges and trade-offs that individuals and governments in
+%low and middle-income countries face, and the effectiveness of small and
+%large-scale interventions to reduce poverty. \\
+%\textbf{LO3} & To understand how economists generate rigorous knowledge,
+%to interpret quan- titative results, and to critically examine
+%strategies and assumptions underlying measurement of causal impacts. \\
+%\textbf{LO4} & To communicate economic issues clearly and concisely in
+%multiple forms of writing. \\
+%\bottomrule
+%\end{longtable}
+%
+%\hypertarget{syllabus}{%
+%\subsection{Syllabus}\label{syllabus}}
+%
+%\href{files/ec140_syllabus_f21.pdf}{Fall 2020 syllabus}
+%
+%\hypertarget{grading}{%
+%\subsection{Grading}\label{grading}}
+%
+%\begin{longtable}[]{@{}ll@{}}
+%\toprule
+%Activity & \% \\
+%\midrule
+%\endhead
+%Reading responses & 20\% \\
+%Class participation & 20\% \\
+%Capstone assignments & 60\% \\
+%\bottomrule
+%\end{longtable}
+%
+%\hypertarget{capstone-1-policy-memo}{%
+%\section{Capstone 1: Policy Memo}\label{capstone-1-policy-memo}}
+
+\hypertarget{learning-objectives-1}{%
+\section*{Learning Objectives}\label{learning-objectives-1}}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  Demonstrate understanding of key topics in Unit 1
+
+  \begin{enumerate}
+  \def\labelenumii{\alph{enumii}.}
+  \tightlist
+  \item
+    Defining poverty and considering the ``economic lives of the poor''
+  \item
+    The role of geography, institutions, and foreign aid in economic
+    growth and the economic well-being of citizens today
+  \end{enumerate}
+\item
+  Comunicate ideas in a concise format through a policy memo
+\end{enumerate}
+
+\hypertarget{prompt}{%
+\section*{Prompt}\label{prompt}}
+
+Your assignment is to choose a low- or middle income country (as defined
+by the
+\href{https://datahelpdesk.worldbank.org/knowledgebase/articles/906519}{World
+Bank}) and write a brief policy ``briefing'' memo directed at a new
+program analyst at USAID.
+
+The following countries are \textbf{recommended} because profiles of
+individual families/households are available through one of the sources
+below: Bangaldesh, Bolivia, Bulgaria, Brazil, Burundi , Burkina Faso,
+Cambodia, China, Cote d'Ivoire, Colombia, Cameroon, Egypt, Ethiopia,
+Ghana, Guatemala, Haiti, Iran, Indonesia, India, Jordan, Kyrgyzstan,
+Kazakhstan, Kenya, Lebanon, Liberia, Myanmar, Malawi, Mongolia, Mexico,
+Mozambique, Nigeria, Nepal, Pakistan, Peru, Philippines, Papua New
+Guinea, Russia, Romania, Rwanda, Somalia, Switzerland, South Africa,
+Serbia, Sri Lanka, Tunisia, Tanzania, Thailand, Togo, Turkey, Ukraine,
+Vietnam, Zimbabwe
+
+There are \textbf{four} key elements your memo should include:
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  \textbf{Economic status:} Description of the economic status of the
+  country based on recent data. You should pull this information form a
+  source such as the \href{https://data.worldbank.org/}{World Bank},
+  \href{http://hdr.undp.org/en/content/download-data}{UN Human
+  Development Reports}, or other large-scale surveys and data collection
+  efforts (\href{https://www.dhsprogram.com/}{Demographic and Health
+  Surveys},
+  \href{https://www.worldbank.org/en/programs/lsms/initiatives/lsms-plus}{LSMS},
+  etc.). This discussion should include the following factors
+
+  \begin{enumerate}
+  \def\labelenumii{\arabic{enumii}.}
+  \tightlist
+  \item
+    Current GDP/capita levels and recent trends
+    \item A measure of poverty and recent trends
+  \item
+    At least one additional that reflects quality of life and recent
+    trends in them
+  \end{enumerate}
+\item
+  \textbf{Institutions:} Description of key events and/or
+  characteristics of the country that has influenced its economic
+  development (that you described above) and a summary of its political
+  and economic institutions. Make sure your discussion is supported w/
+  evidence.
+
+  \begin{enumerate}
+  \def\labelenumii{\arabic{enumii}.}
+  \tightlist
+  \item
+    You'll need to cite our readings (where relevant) in this section
+  \item
+    You will also need to bring in \textbf{at least 2 external
+    (non-class) sources}
+  \end{enumerate}
+\item
+  \textbf{Foreign aid and effectiveness} Summary of aid this country has
+  received and is currently receiving from
+  \href{https://www.usaid.gov/}{USAID} (and/or other places) and
+  discussion of whether this aid has been effective
+
+  \begin{enumerate}
+  \def\labelenumii{\arabic{enumii}.}
+  \tightlist
+  \item
+    Effectiveness can be based on your own impressions, but it should
+    cite other researchers/authors. This could include our class
+    readings, but it also should include \textbf{at least 2 external
+    sources}.
+  \end{enumerate}
+\item
+  \textbf{Citizen profile:} To help our analyst get a sense of the lives
+  of actual citizens of this country, include a ``pop-out'' box that
+  profiles one individual or one family. This information can be drawn
+  from Gapminder's \href{https://www.gapminder.org/dollar-street}{Dollar
+  Street},
+  \href{http://www.portfoliosofthepoor.com/portfolios.asp}{Portfolios of
+  the Poor} (applicable for Bangladesh, India, South Africa),
+  \href{https://www.fsdkenya.org/}{Kenyan Financial Diaries},
+  \href{https://bfaglobal.com/our-work/financial-diaries/}{BFA Global
+  Financial Diaries} (China, India, Mexico, South Africa, Kenya,
+  Mozambique, Pakistan, Rwanda, Tanzania, Uganda)
+\end{enumerate}
+
+Then, include a separate page that has the following:
+
+\begin{itemize}
+\tightlist
+\item
+  Definintions of all terms used (GDP/capita, PPP, HDI, etc.)
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Make sure it's clear in your terms what they mean \emph{exactly}.
+    How is poverty rate defined? Is GDP/captia in PPP dollars, US
+    dollars? Based to what year?
+  \end{itemize}
+\item
+  References list
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Formatted bibliography using
+    \href{https://owl.purdue.edu/owl/research_and_citation/resources.html}{APA,
+    MLA, or Chicago}.
+  \item
+    Make sure to include proper citation for any course readings
+    readings \emph{and} data sources as well as external
+    articles/readings.
+  \end{itemize}
+\end{itemize}
+
+\hypertarget{specifications}{%
+\section*{Specifications}\label{specifications}}
+
+\begin{itemize}
+\item
+  1200-1800 words (excluding references and definitions). You may want
+  to consider bulleted lists, tables, etc. to stay within the word
+  count.
+\item
+  Descriptive title (ie. not ``TONGA BRIEF'')
+\item
+  Spend some time formatting your brief to make it look nice!
+\item
+  You'll need quite a few outside sources. I expect the following:
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Data sources for economic profile
+  \item
+    Academic and non-academic literature for institutions and foreign
+    aid effectiveness
+  \item
+    Data sources for current aid
+  \item
+    External source for citizen profile
+  \end{itemize}
+\item
+  When bringing in outside sources, use in-text citations, be brief, and avoid large
+  quotation blocks
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Good: ``Botswana's standard of living has enabled the government to
+    invest more in education, a key''engine of economic prosperity"
+    (Acemoglu and Robinson 2009, p77)
+  \item
+    No: ``Inclusive economic instituions pave the way for two other
+    engines of economic prosperity: technology and education.''
+    (Acemoglu and Robinson 2009, p77) \emph{Instead, link to your own
+    points and pare down.}
+  \item
+    No: ``In their book, \emph{Why Nations Fail,} Acemoglu and Robinson
+    (p77) highlight the importance of technology and education as
+    engines of economic prosperity.'' \emph{We don't need the book
+    title, and make the link to what you're saying clearer. While we can
+    state their arguments, it's better to integrate them with our own.}
+  \item
+    No: ``Botswana has invested heavily in education, as inclusive
+    economic instituions pave the way for two other engines of economic
+    prosperity: technology and education.'' Well, now you've plagarised.
+    Even if you include AR in the references!
+  \end{itemize}
+\end{itemize}
+
+\hypertarget{deliverables}{%
+\section*{Deliverables}\label{deliverables}}
+
+\hypertarget{rough-draft-september-20}{%
+\subsection*{Rough draft (Sept
+20 at 1:10pm)}\label{rough-draft-september-20}}
+
+
+During class, you'll peer review each other's drafts.
+
+What counts as ``complete enough'' for a rough draft:
+
+\begin{itemize}
+\tightlist
+\item
+  Selected an eligible country
+\item
+  Content in all four key elements
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Data and indicators in place for part (1)
+  \item
+    External sources (2+) brought in for key events/characteristics
+  \end{itemize}
+\item
+  Definition of terms
+\end{itemize}
+
+\hypertarget{final-draft-september-27}{%
+\subsection*{Final draft (Sept.
+27 at 1:10pm)}\label{final-draft-september-27}}
+
+
+We will have a remote activity to work with the drafts.
+%
+%\hypertarget{capstone-2-mini-grant-proposal}{%
+%\subsection{Capstone 2: Mini-grant
+%proposal}\label{capstone-2-mini-grant-proposal}}
+%
+%\hypertarget{capstone-3-policy-brief}{%
+%\subsection{Capstone 3: Policy brief}\label{capstone-3-policy-brief}}
+
+\end{document}
