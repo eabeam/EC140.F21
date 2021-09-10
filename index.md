@@ -11,7 +11,7 @@ output: html_document
 
 [TOC]
 
-## Learning Objectives 
+## Course Learning Objectives 
 
 |         |                                                              |
 | ------- | ------------------------------------------------------------ |
@@ -41,6 +41,8 @@ output: html_document
 # Capstone 1: Policy Memo
 
 [Print-friendly version (pdf)](capstone-01_f21.pdf)
+
+
 
 ## Learning Objectives 
 
@@ -133,7 +135,7 @@ We will have a remote activity to work with the drafts.
 
 
 ## Capstone 2: Mini-grant proposal
-** Not yet updated for Fall 2021, review with caution!** 
+**Not yet updated for Fall 2021, review with caution!** 
 [Project Overview](files/EC140_Proposal.pdf)
 
 [Rubric](files/MiniGrant_Rubric_EC140.pdf) 
@@ -141,7 +143,7 @@ We will have a remote activity to work with the drafts.
 
 
 ## Capstone 3: Policy brief
-** Not yet updated for Fall 2021, review with caution!** 
+**Not yet updated for Fall 2021, review with caution!** 
 [Capstone 03 Overview](files/EC140_Cap3_Specifications.pdf)
 
  [Rubric](files/PolicyBrief_Rubric_EC140.pdf) 
