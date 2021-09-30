@@ -1,0 +1,441 @@
+\documentclass[11pt]{article}
+
+
+
+
+\usepackage[sfdefault]{FiraSans} %% option 'sfdefault' activates Fira Sans as the default text font
+\usepackage[T1]{fontenc}
+\renewcommand*\oldstylenums[1]{{\firaoldstyle #1}}
+
+\usepackage{natbib}
+\usepackage[french,english]{babel}
+\usepackage{numprint}
+\usepackage{multirow}
+\usepackage{rotating}
+\usepackage{fancyhdr}
+\usepackage{booktabs}
+\usepackage{multicol}
+\usepackage{hyperref}\hypersetup{colorlinks=true}
+
+\usepackage{amsmath,amssymb,amsfonts,textcomp}
+\usepackage{color}
+\usepackage{calc}
+ \setlength{\tabcolsep}{8pt}
+\usepackage{setspace}
+\onehalfspacing
+\usepackage{longtable}
+\usepackage{graphicx}
+\usepackage[margin=1in]{geometry}
+\setlength{\parindent}{0pt}
+\usepackage[bottom]{footmisc}
+\pagestyle{fancy}
+\usepackage{titlesec}
+\usepackage{lipsum}
+\usepackage{cancel}
+\usepackage{multicol}
+
+\usepackage{amsmath,amssymb}
+\usepackage{lmodern}
+\usepackage{iftex}
+\ifPDFTeX
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provide euro and other symbols
+\else % if luatex or xetex
+  \usepackage{unicode-math}
+  \defaultfontfeatures{Scale=MatchLowercase}
+  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+
+\titleformat{\section}
+  {\normalfont\Large\scshape\bfseries}{\thesection}{1em}{}
+  \titlespacing{\section}{0pt}{10pt}{0pt}
+\titleformat{\subsection}
+  {\normalfont\bfseries}{\thesection}{1em}{}
+  \titlespacing{\subsection}{0pt}{6pt}{0pt}
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}\newenvironment{itemize*}%
+
+  
+\lhead{EC140 - Economic Development}
+\rhead{Version: \today}
+\setlength\parskip{0.10in}
+\begin{document}
+\thispagestyle{plain}
+\singlespacing
+
+
+Version: \today \hfill Fall 2021\\
+EC140: Economic Development
+%\vspace{1.5cm}
+\begin{center}
+\Large{\textbf{Capstone 2: RCT Proposal (mini-grant)}}\\
+\end{center}
+\bigskip
+
+
+\hypertarget{learning-objectives-1}{%
+\section*{Learning objectives}\label{learning-objectives-1}}
+
+The objective of this capstone is to provide an opportunity to connect
+the in-class topics with real-world challenges, to strengthen your
+skills in communicating clearly and concisely about an issue, and to
+develop your abilities in thinking critically about writing and
+providing constructive feedback.
+
+\hypertarget{prompt-1}{%
+\section*{Prompt}\label{prompt-1}}
+
+Throughout this class we've discussed a lot of problems facing the
+world's poor and potential solutions. The Global Innovation Fund
+provides up to
+\href{https://www.globalinnovation.fund/apply/about/what-we-fund/}{\$230,000
+in funding} for pilot projects that provide ``social innovations that
+aim to improve the lives and opportunities of millions of people in the
+developing world.'' Your assignment is to write an adapted mini-grant
+proposal to GIF. Pick a problem of interest to you, think about one
+possible ``innovation'' that is testable, and think about how you would
+evaluate it.
+
+GIF considers four criteria in its funding decisions\footnote{The fifth
+  criteria is team composition, but we'll skip that for now}
+\begin{enumerate}
+\item \textbf{Target market}
+\begin{itemize}
+\tightlist
+\item
+  Innovation brings benefits for those who live on the equivalent of \$5
+  per day, with extra interest in solutions that affect those living on
+  \$2 or less per day or other vulnerable or disadvantaged groups
+\end{itemize}
+
+\item \textbf{Innovation and impact:} Will your intervention meaningfully improve the
+lives of those living on less than \$5 PPP per day?
+
+\begin{itemize}
+\tightlist
+\item
+  Does your innovation have the potential to deliver substantially
+  greater results per dollar than standard development practice?
+\item
+  What is your evidence of impact to back this claim?
+
+  \begin{itemize}
+  \tightlist
+  \item
+    As these are pilot funds, ``We value any relevant evidence or
+    research findings that demonstrate why the innovation is needed,
+    such as evidence of customer demand or interest in the innovation.
+    We do not expect that strong evidence already exists to prove the
+    value of the innovation, but we do need a clear rationale for why
+    the innovation could have a greater impact or be more cost effective
+    than existing approaches.''
+  \end{itemize}
+\item
+  Will your current request substantially strengthen or test your case
+  for impact?
+\item
+  Does your innovation test, challenge, or improve on business as usual?
+\end{itemize}
+
+\item \textbf{Measuring success and lessons learned:} How will you measure your
+success? Monitoring and evaluation? Impact evaluation? \emph{For our
+class, the correct answer is \textbf{to conduct an impact evaluation}.
+Provide details (see below).}
+
+\item \textbf{Potential to scale:} If the pilot is successful, how could the model
+scale and grow?
+
+\begin{quote}
+GIF only funds innovation which have the potential to scale to benefit
+millions of people. Scaling can take place through in any number of
+ways-- growth of a successful business or uptake by a government
+partner, for example. The \href{https://millionlivesclub.org/}{million
+lives club} showcases some of the innovations supported by GIF and
+others which are either reaching millions of clients or on their way to
+doing so.
+\end{quote}
+
+\emph{Note that you don't need to propose anything at scale, just
+discuss how one might do it if your intervention was successful}
+
+\end{enumerate}
+\hypertarget{format}{%
+\section*{Format}\label{format}}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\item
+  Title of project:
+\item
+  One-sentence pitch \emph{That's right, just one sentence}
+\item
+  Application summary
+\item
+  Grant proposal, in one of the following forms
+
+  \begin{enumerate}
+  \def\labelenumii{\alph{enumii}.}
+  \tightlist
+  \item
+    2-4 page proposal (\emph{12 point font, single spaced, 1" margins)}
+
+\textbf{OR}
+
+    
+    \item 8-15 slide deck + video in which you narrate your slides
+
+  \end{enumerate}
+  
+  \item
+  References
+\end{enumerate}
+
+
+\hypertarget{application-summary}{%
+\subsection*{Application summary}\label{application-summary}}
+
+Provide a 1-2 paragraph summary of your application in the space below,
+\textbf{maximum 300 words}. Summarize why your approach is innovative
+and the expected impacts and potential to scale.
+
+\hypertarget{grant-proposal}{%
+\subsection*{Grant proposal}\label{grant-proposal}}
+
+In addition to the application summary, your proposal should have \textbf{four} distinct, labeled sections.
+
+
+
+\begin{enumerate}
+\def\labelenumi{(\arabic{enumi})}
+\item
+  Overview of the innovation you propose: What is it, how does it work? 
+\item
+  Innovation and impact: Demonstrate that your project meets the \textbf{four} criteria above
+\item
+  Measuring success and lessons learned: Describe a plan to implement a
+  randomized impact evaluation to evaluate your innovation. It should
+  include the following details:
+
+
+\begin{enumerate}
+
+\item
+  Theory of change: Inputs, Activities, Outputs, Intermediate Outcomes,
+  Final outcomes (a diagram is fine)
+\item
+  Sampling frame: who will be in your sample, how will you recruit them
+\item
+  Randomization strategy: individual, clustered, explain why
+\item
+  Treatment arms: how many arms are there, what does each arm (and
+  control) receive?
+\item
+  Outcomes of interest: What are the outcomes you will measure to
+  determine if your intervention is effective?
+\item
+  Measurement strategy: How will you measure these outcomes? Surveys,
+  administrative data?
+\end{enumerate}
+\item
+  Potential to scale
+
+
+\end{enumerate}
+
+As a rough guide, I would expect that section 3 would be about twice as
+long as sections 1 and 2, and that section 4 would be very short.
+
+\hypertarget{written-grant-proposal}{%
+\paragraph{Written grant proposal}\label{written-grant-proposal}}
+
+Your document should meet the following criteria:
+
+\begin{itemize}
+\item
+  Include elements described above
+\item
+  Be 2--4 pages, single spaced
+\item
+  11 or 12 point reasonable font, 1" margin
+\end{itemize}
+
+In order to make this work, you'll note that you won't have much room
+for long paragraphs with nice connecting topics sentences. Don't worry
+about transitions. Use bullet points when appropriate to make your
+points clearer.
+
+\hypertarget{slide-deck-grant-proposal}{%
+\paragraph{Slide deck grant proposal}\label{slide-deck-grant-proposal}}
+
+\emph{Note that you still need to prepare the 300-word application
+summary if you choose this option!}
+
+Your presentation should contain the following:
+
+\begin{itemize}
+\item
+  Include all elements described above
+\item
+  Consist of 8–16 slides
+\item
+  Slide deck should be attractive, easy to read
+\item
+  You should record a video of yourself narrating your presentation.
+  This is not the same as reading your slides. You can do a screencast
+  via Teams or something fancier. I'm just looking for a video of your
+  slides w/ an audio component
+\item
+  Because you are narrating, don't try to cram a written proposal into
+  16 slides. It will look awful and be no fun for you. Use bullet points
+  to touch on key elements, and then talk us through those points in
+  detail
+\item
+  You don't need to script your narration (though you can) -- but you
+  may want to give yourself a few talking points to ensure it goes
+  smoothly
+\item
+  The presentation should be 10–15 minutes.
+\end{itemize}
+
+\hypertarget{do-i-need-references}{%
+\subsection*{Do I need references?}\label{do-i-need-references}}
+
+Yes, and not just for your grade. Depending on your problem/innovation,
+you will need to consult data sources, reports and/or academic articles
+for any of these three reasons:
+
+\begin{enumerate}
+\def\labelenumi{(\arabic{enumi})}
+\item
+  To argue why your policy problem matters. It's not sufficient to say
+  that ``I believe hunger is a major problem, because when I'm hungry
+  it's hard to do anything.'' Rather, ``Malnutrition kills more than 10
+  children each year and limits the future of millions more (Yosemite
+  and Buggles 2005)''
+\item
+  To argue why your innovation is innovative. While Smith and Patel
+  (2012) have tested the roll-out of microinsurance to protect against
+  flooding in Senegal, no one has considered that microinsurance can
+  also be adapted to help the poor pay costly veterinary bills."
+\item
+  To argue why your innovation will work. ``Ho and Gutchow (1988) show
+  the promise of inspirational cat posters on children's health and iron
+  levels.''
+\end{enumerate}
+
+\emph{For grading purposes, you must cite at least 3 peer-reviewed
+academic papers, at least two of which must be non-assigned course
+readings (bonus pack course readings are fine) .}
+
+\hypertarget{documenting-your-references}{%
+\paragraph{Documenting your
+references}\label{documenting-your-references}}
+
+Your sources can include readings from class or readings outside of
+class, but all should be properly documented in a \textbf{References}
+section at the end of the proposal or your slide deck. \emph{The
+references section does not count toward the page limit or slide deck
+limit.} You can use any standard method of formatting references (APA,
+MLA, Chicago), but it should be implemented correctly.
+
+\hypertarget{do-i-need-a-budget}{%
+\subsection*{Do I need a budget?}\label{do-i-need-a-budget}}
+
+\textbf{No!}
+
+However, it can be hard to know what \$230k would buy you in terms of an
+intervention and evaluation (less than you would think, unfortunately
+:no\_mouth: ). And often, governments will provide inputs if your
+innovation builds upon an existing program they are interested in. For
+example, if you want to add a component to a conditional cash transfer
+program, you could assume the cash transfer program is already paid for.
+In general, think bigger than distributing flyers to 1000 people but
+smaller than a test of universal basic income for the nation of Kenya.
+
+The biggest costs are usually the interventions themselves (ie you give
+\$100/person, that adds up!) and staffing needed for surveys. We just
+priced out a 1.5 hour 2400-person survey conducted in person in fairly
+rural areas in the Philippines at \textasciitilde\$100k (including all
+staff costs, transportation, help w/ analysis, etc.).
+
+For this assignment, don't worry about this too much unless you are
+\emph{wildly} off (ie could be implemented for \textless{} \$10k or more
+than \$5 million).
+
+\hypertarget{i-have-no-ideas}{%
+\section*{I have no ideas!}\label{i-have-no-ideas}}
+
+A few approaches:
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\item
+  Topic-centric: Pick a general topic that interests you (education,
+  sanitation, reproductive health), and dive into the \emph{Poor
+  Economics} chapter -- keep an eye out for the papers that catch your
+  fancy. Or, if you find someone's work you like, visit their research
+  website and see what other stuff they're up to more recently. There
+  are lots of summaries of completed an in-progress projects at
+  \href{https://www.poverty-action.org/}{IPA's} and
+  \href{https://www.povertyactionlab.org/}{JPAL's} websites, and you can
+  search by topic
+\item
+  Recent stuff: Browse \href{https://voxdev.org/}{VoxDev.org} -- it has
+  heaps of quick policy briefs on things people are trying.
+\item
+  GIF: Check out what GIF is
+  \href{https://www.globalinnovation.fund/our-investments/\#investments-page+types-of-investments:grant}{funding}
+  at the moment
+\item
+  Dig around for NGOs that work in areas you're interested in.
+  \href{https://www.givewell.org/}{GiveWell} has a list of effective
+  charities.
+\end{enumerate}
+
+You don't need to revolutionize the world by inventing the next big idea
+or building a better bed net. But, you can look at what people have
+tried or are trying and propose an improvement, an expansion, a new
+context, etc. Since it's a pilot, you don't need to know whether it will
+work, but you should be able to argue (using evidence) that it
+\emph{probably} will make peoples' lives better.
+
+In that vein, you shouldn't take someone's project as is. But, you could
+think about what addition/change you might make to someone's
+intervention, whether you could apply it in a different context (If
+cognitive behavioral therapy helps mothers, could it also help children?
+Maybe it would lead to better education outcomes?), etc.
+
+\hypertarget{grading-2}{%
+\section*{Grading}\label{grading-2}}
+
+See separate grading rubric. Use it as you work on your proposal.
+
+Note that the rubric will be the same for both methods, with the
+exception of the ``Appearance and style'' block. For the written
+proposal, that will be graded based on producing a proposal that is
+concise, clear, and has minimal grammatical errors. The recorded video
+proposal will be graded on the quality of the slides (visually
+attractive, concise) and of the narration (makes points clearly, easy to
+follow)
+
+\hypertarget{deliverables-1}{%
+\subsection*{Deliverables}\label{deliverables-1}}
+
+Your assignment will be submitted in three stages:
+
+\textbf{RCT proposal idea:} Submit on Blackboard by \textbf{October 15
+(Friday) @ 1:10pm}
+
+\textbf{RCT proposal draft:} Submit on Blackboard by \textbf{October 29
+(Friday) @ 1:10pm}, and we will peer review in class
+
+\textbf{RCT proposal final draft:} Submit on Blackboard by
+\textbf{November 7 (Sunday) @ 11:59pm}
+
+You will be graded on your proposal idea (5\%, for completion), draft
+brief (10\%, for completion), and your final brief (85\%)
+
+
+
+\end{document}
