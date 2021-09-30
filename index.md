@@ -152,7 +152,7 @@ develop your abilities in thinking critically about writing and providing constr
 
 
 Throughout this class we've discussed a lot of problems facing the world's poor and potential solutions. The Global Innovation Fund provides up to [\$230,000 in funding](https://www.globalinnovation.fund/apply/about/what-we-fund/) for pilot projects that provide "social innovations that aim to improve the lives and opportunities of millions of people in the developing world." Your
-assignment is to write an adapted mini-grant proposal to GIF. Pick a problem of interest to you, think about one possible "innovation" that is testable, and think about how you would evaluate it.
+assignment is to write an adapted mini-grant proposal to GIF. Pick a problem of interest to you, think about one possible "innovation" that is testable, and think about how you would evaluate it in **one** particular setting (ie country, region within a country, city)
 
 GIF considers four criteria in its funding decisions[^1]
 
@@ -319,15 +319,41 @@ Note that the rubric will be the same for both methods, with the exception of th
 
 ### Deliverables
 
-Your assignment will be submitted in three stages:
+Your assignment will be submitted in three stages. You will be graded on your proposal idea (5%, for completion), draft brief (10%, for completion), and your final brief (85%)
 
-**RCT proposal idea:** Submit on Blackboard by **October 15 (Friday) @ 1:10pm**
+#### **RCT proposal idea**
 
-**RCT proposal draft:**  Submit on Blackboard by **October 29 (Friday) @ 1:10pm**, and we will peer review in class 
+Submit on Blackboard by October 15 (Friday) @ 1:10pm
 
-**RCT proposal final draft:** Submit on Blackboard by **November 7 (Sunday) @ 11:59pm**
+Prepare a 1–2 paragraph "pitch" of your idea. This is fairly informal, but it should include the following: 
 
-You will be graded on your proposal idea (5%, for completion), draft brief (10%, for completion), and your final brief (85%)
+- Location of study: Specific country, region within country, etc 
+- Description of the innovation that you want to test. What is it, is this derived from something else (and if so, what's different about your study vs. previous work)?
+- A sentence or two about how you might evaluate it. 
+
+
+
+#### **RCT proposal draft**  
+
+Submit on Blackboard by **October 29 (Friday) @ 1:10pm**, and we will peer review in class 
+
+What counts as "complete enough" for a rough draft:
+
+- Content in all four sections of grant proposal (as written document or presentation)
+
+- At least 1 page single spaced 
+
+- Theory of change present and filled out 
+
+- At least 2 peer-reviewed academic journal articles included (you need 3 for final)
+
+  
+
+#### **RCT proposal final draft**
+
+ Submit on Blackboard by **November 7 (Sunday) @ 11:59pm**
+
+Review rubric before submission!
 
 
 

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.5.25)  30 SEP 2021 10:00
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.5.25)  30 SEP 2021 10:15
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -665,7 +665,7 @@ Package: inputenc 2020/08/01 v1.3d Input encoding file
 \inpenc@prehook=\toks32
 \inpenc@posthook=\toks33
 )
-(./capstone-02_f21.aux)
+No file capstone-02_f21.aux.
 \openout1 = `capstone-02_f21.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 63.
@@ -691,7 +691,6 @@ LaTeX Font Info:    ... okay on input line 63.
 LaTeX Info: Redefining \degres on input line 63.
 LaTeX Info: Redefining \dots on input line 63.
 LaTeX Info: Redefining \up on input line 63.
-
 (/usr/local/texlive/2021/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count327
@@ -739,7 +738,6 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 63.
 LaTeX Info: Redefining \pageref on input line 63.
 LaTeX Info: Redefining \nameref on input line 63.
- (./capstone-02_f21.out) (./capstone-02_f21.out)
 \@outlinefile=\write3
 \openout3 = `capstone-02_f21.out'.
 
@@ -935,13 +933,31 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
-[5] (./capstone-02_f21.aux)
-Package rerunfilecheck Info: File `capstone-02_f21.out' has not changed.
-(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+[5]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[6] (./capstone-02_f21.aux)
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+
+Package rerunfilecheck Warning: File `capstone-02_f21.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `capstone-02_f21.out':
+(rerunfilecheck)             Before: <no file>
+(rerunfilecheck)             After:  D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 14178 strings out of 478994
- 215352 string characters out of 5858184
+ 14173 strings out of 478994
+ 215238 string characters out of 5858184
  705659 words of memory out of 5000000
  31318 multiletter control sequences out of 15000+600000
  586697 words of font info for 77 fonts, out of 8000000 for 9000
@@ -959,10 +975,10 @@ fonts/type1/public/fira/FiraSans-BoldItalic.pfb></usr/local/texlive/2021/texmf-
 dist/fonts/type1/public/fira/FiraSans-Italic.pfb></usr/local/texlive/2021/texmf
 -dist/fonts/type1/public/fira/FiraSans-Regular.pfb></usr/local/texlive/2021/tex
 mf-dist/fonts/type1/public/lm/lmr10.pfb>
-Output written on capstone-02_f21.pdf (5 pages, 221254 bytes).
+Output written on capstone-02_f21.pdf (6 pages, 222639 bytes).
 PDF statistics:
- 119 PDF objects out of 1000 (max. 8388607)
- 105 compressed objects within 2 object streams
- 48 named destinations out of 1000 (max. 500000)
+ 124 PDF objects out of 1000 (max. 8388607)
+ 109 compressed objects within 2 object streams
+ 49 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
