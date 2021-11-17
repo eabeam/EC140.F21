@@ -365,7 +365,7 @@ Review rubric before submission!
 
 The objectives of this assignment are (1) to provide an opportunity to connect the in-class topics with real-world challenges, (2) to strengthen your skills in writing clearly and concisely about an issue, and (3) to develop your abilities in thinking critically about writing and providing constructive feedback.
 
-You will write a policy brief of [1,000-1,500 words]{.ul}, submitted in three stages:
+You will write a policy brief of **1,000–1,500 words**, submitted in three stages:
 
 1. Idea Submit on Blackboard for quick feedback **Nov 29 @ 11:59pm**
 
@@ -379,15 +379,17 @@ You will be graded on your idea and draft brief (5% each) and your final brief (
 
 We're going to think about two big challenges: global climate change and pandemics (Covid-19, or more generally), and their intersection with the [sustainable development goals](https://sdgs.un.org/goals).
 
-Write a policy brief about *one* specific policy issue in the domain of *one* sustainable development goal that is *exacerbated by one* of the two big challenges above.]{.ul} For example, "food insecurity in India" is too broad. But "higher food prices as a result of supply chain shocks from super typhoon Gomi in the Philippines" is more answerable.
+**Write a policy brief about *one* specific policy issue in the domain of *one* sustainable development goal that is *exacerbated by one* of the two big challenges above.** For example, "food insecurity in India" is too broad. But "higher food prices as a result of supply chain shocks from super typhoon Gomi in the Philippines" is more answerable.
 
-Choose one low- or middle-income country for your focus^1[If you're not sure, double check [here](https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country-and-lending-groups)]. Suppose that you are consulting to that country's national government of a nation of your choice. For this brief, describe the problem and explain why it is important. Provide information about potential solutions that the national government could reasonably enact, and make at least two policy recommendations.
+Choose one low- or middle-income country for your focus[^1]. Suppose that you are consulting to that country's national government of a nation of your choice. For this brief, describe the problem and explain why it is important. Provide information about potential solutions that the national government could reasonably enact, and make at least two policy recommendations.
+
+[^1]: If you're not sure, double check [here](https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country-and-lending-groups)
 
 **Audience** National government officials, who know a lot about their country's context and challenges, but who are very averse to additional spending, and it may be hard to convince that your solutions will meet the needs of their constituents.
 
 ## What is a policy brief?
 
-A policy brief is a short document that communicates information about a particular challenge and helps policymakers [decide what to do.]{.ul} 
+A policy brief is a short document that communicates information about a particular challenge and helps policymakers **decide what to do.** 
 
 UNC's Writing Center has [a nice summary](https://writingcenter.unc.edu/tips-and-tools/policy-briefs/).
 
@@ -421,7 +423,7 @@ UNC's Writing Center has [a nice summary](https://writingcenter.unc.edu/tips-and
 
 I've posted examples of successful policy briefs from previous classes on Blackboard 
 
-There isn't "correct" policy brief, because the needs of each organization differ. Many sample briefs include pictures and stylistic elements (smiling children, borders, etc.) to create a polished look. Graphic design skills are not necessary; [however your briefs should look professional]{.ul} -- like something you could actually send to a policymaker. I do recommend paying attention to your formatting and using text boxes, simple charts, and/or tables as appropriate to illustrate your points. These can help you clearly convey your ideas within the word limit and make a nice-looking document.
+There isn't "correct" policy brief, because the needs of each organization differ. Many sample briefs include pictures and stylistic elements (smiling children, borders, etc.) to create a polished look. Graphic design skills are not necessary; **however, your briefs should look professional**—like something you could actually send to a policymaker. I do recommend paying attention to your formatting and using text boxes, simple charts, and/or tables as appropriate to illustrate your points. These can help you clearly convey your ideas within the word limit and make a nice-looking document.
 
 You will be graded based on **four key elements:**
 
@@ -447,7 +449,7 @@ Divide your brief into clear, labelled sections:
 
 5.  Policy recommendation: Make a clear recommendation and justify.
 
-6.  References: Include any citations you have. Throughout your brief, you must cite **at least 3** **papers** from [peer-reviewed, academic journal]{.ul} articles. However, you'll likely have far more citations (at least 6 total). Use in-text citations when relying on other sources to support your statements, especially in statement of problem/background and pre-existing policies/evidence. MLA/APA/Chicago formats are all acceptable, and your reference section does not count toward word limit.
+6.  References: Include any citations you have. Throughout your brief, you must cite **at least 3** **papers** from **peer-reviewed, academic journal** articles. However, you'll likely have far more citations (at least 6 total). Use in-text citations when relying on other sources to support your statements, especially in statement of problem/background and pre-existing policies/evidence. MLA/APA/Chicago formats are all acceptable, and your reference section does not count toward word limit.
 
 *If you're not sure whether your paper is a peer-reviewed, academic journal article, check out [this guide](https://guides.lib.jjay.cuny.edu/c.php?g=288333&p=1922599). Resources for finding journal articles includes [Google Scholar](https://scholar.google.com/) (which will also include unpublished articles, so be careful!) and
 [EconLit](http://library.uvm.edu/research/research_databases#LETTER_E) (accessible through the library databases).*
