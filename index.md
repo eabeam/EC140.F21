@@ -321,7 +321,7 @@ Note that the rubric will be the same for both methods, with the exception of th
 
 Your assignment will be submitted in three stages. You will be graded on your proposal idea (5%, for completion), draft brief (10%, for completion), and your final brief (85%)
 
-#### **RCT proposal idea**
+#### RCT proposal idea
 
 Submit on Blackboard by October 15 (Friday) @ 1:10pm
 
@@ -333,7 +333,7 @@ Prepare a 1–2 paragraph "pitch" of your idea. This is fairly informal, but it 
 
 
 
-#### **RCT proposal draft**  
+#### RCT proposal draft
 
 Submit on Blackboard by **October 29 (Friday) @ 1:10pm**, and we will peer review in class 
 
@@ -349,7 +349,7 @@ What counts as "complete enough" for a rough draft:
 
   
 
-#### **RCT proposal final draft**
+#### RCT proposal final draft
 
  Submit on Blackboard by **November 7 (Sunday) @ 11:59pm**
 
@@ -359,11 +359,120 @@ Review rubric before submission!
 
 
 
+# Capstone 3: Policy Brief
+
+[**Print-friendly PDF**](files/capstone-03_f21.pdf)
+
+The objectives of this assignment are (1) to provide an opportunity to connect the in-class topics with real-world challenges, (2) to strengthen your skills in writing clearly and concisely about an issue, and (3) to develop your abilities in thinking critically about writing and providing constructive feedback.
+
+You will write a policy brief of [1,000-1,500 words]{.ul}, submitted in three stages:
+
+1. Idea Submit on Blackboard for quick feedback **Nov 29 @ 11:59pm**
+
+2. Draft Submit on Blackboard and send copy to reviewer **Dec 06 @
+   1:10pm**
+3. Final draft Submit on Blackboard **Dec 13 @ 11:59pm**
+
+You will be graded on your idea and draft brief (5% each) and your final brief (90%)
+
+## Prompt
+
+We're going to think about two big challenges: global climate change and pandemics (Covid-19, or more generally), and their intersection with the [sustainable development goals](https://sdgs.un.org/goals).
+
+Write a policy brief about *one* specific policy issue in the domain of *one* sustainable development goal that is *exacerbated by one* of the two big challenges above.]{.ul} For example, "food insecurity in India" is too broad. But "higher food prices as a result of supply chain shocks from super typhoon Gomi in the Philippines" is more answerable.
+
+Choose one low- or middle-income country for your focus^1[If you're not sure, double check [here](https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country-and-lending-groups)]. Suppose that you are consulting to that country's national government of a nation of your choice. For this brief, describe the problem and explain why it is important. Provide information about potential solutions that the national government could reasonably enact, and make at least two policy recommendations.
+
+**Audience** National government officials, who know a lot about their country's context and challenges, but who are very averse to additional spending, and it may be hard to convince that your solutions will meet the needs of their constituents.
+
+## What is a policy brief?
+
+A policy brief is a short document that communicates information about a particular challenge and helps policymakers [decide what to do.]{.ul} 
+
+UNC's Writing Center has [a nice summary](https://writingcenter.unc.edu/tips-and-tools/policy-briefs/).
+
+> Imagine that you're an elected official serving on a committee that sets the standards cars must meet to pass a state inspection. You know that this is a complex issue, and you'd like to learn more about
+> existing policies, the effects of emissions on the environment and on public health, the economic consequences of different possible approaches, and more--you want to make an informed decision. But you don't have time to research all of these issues! You need a policy brief.
+>
+> A policy brief presents a concise summary of information that can help readers understand, and likely make decisions about, government policies. Policy briefs may give objective summaries of relevant
+> research, suggest possible policy options, or go even further and argue for particular courses of action.
+>
+> *UNC Writing Center, "[Policy Briefs](https://writingcenter.unc.edu/tips-and-tools/policy-briefs/)"*
+
+## How do I know if I've picked a good topic?
+
+1.  Have you identified a policy challenge that affects a developing country?
+
+2.  Can you link that challenge to an SGD?
+
+3.  Is your challenge exacerbated by climate change or Covid-19/pandemics?
+
+*Some examples:*
+
+-   Addressing learning losses in Ghana in response to Covid-19 (SDG4: Quality education)
+
+-   Insuring Indian farmers against crop losses in the face of climate change (SDG2: No hunger)
+
+-   Increasing bednet usage in Malawi (SDG3: Good Health and Well-Being) (with cited discussion in brief of impacts of climate change on incidence of malaria)
+
+-   Intimate partner violence in Bangladesh during Covid-19 closures (SDG5: Gender Equality)
+
+## Policy brief: What am I looking for?
+
+I've posted examples of successful policy briefs from previous classes on Blackboard 
+
+There isn't "correct" policy brief, because the needs of each organization differ. Many sample briefs include pictures and stylistic elements (smiling children, borders, etc.) to create a polished look. Graphic design skills are not necessary; [however your briefs should look professional]{.ul} -- like something you could actually send to a policymaker. I do recommend paying attention to your formatting and using text boxes, simple charts, and/or tables as appropriate to illustrate your points. These can help you clearly convey your ideas within the word limit and make a nice-looking document.
+
+You will be graded based on **four key elements:**
+
+1.  **Motivation**: Your make a convincing case using outside sources that your policy issue is important and the solutions you provide are likely to make the situation better.
+
+2.  **Supporting evidence**: You bring in appropriate ideas and references from class readings and/or outside literature. This evidence is properly cited
+
+3.  **Argumentation**: You take a clear side, and the points you make are justified.
+
+4.  **Appearance and style**: Writing is clear, grammatically correct, and free of typos. Writing style is accessible to a policy audience (minimal jargon, concise sentences). Brief looks professional.
+
+### Key Elements
+
+Divide your brief into clear, labelled sections:
+
+1.  Executive summary: Approximately 1 paragraph. It should summarize your *entire* brief and make clear the SDG and link to climate change and/or Covid-19
+
+2.  Statement of problem/background: Motivate the policy challenge, support claims with outside sources
+
+3.  Pre-existing policies/evidence: Summarize what policies are being considered, what we know about them.
+
+4.  Policy options: Include 2–3 policy options, weigh advantages and disadvantages. Link to existing evidence of what works when possible.
+
+5.  Policy recommendation: Make a clear recommendation and justify.
+
+6.  References: Include any citations you have. Throughout your brief, you must cite **at least 3** **papers** from [peer-reviewed, academic journal]{.ul} articles. However, you'll likely have far more citations (at least 6 total). Use in-text citations when relying on other sources to support your statements, especially in statement of problem/background and pre-existing policies/evidence. MLA/APA/Chicago formats are all acceptable, and your reference section does not count toward word limit.
+
+*If you're not sure whether your paper is a peer-reviewed, academic journal article, check out [this guide](https://guides.lib.jjay.cuny.edu/c.php?g=288333&p=1922599). Resources for finding journal articles includes [Google Scholar](https://scholar.google.com/) (which will also include unpublished articles, so be careful!) and
+[EconLit](http://library.uvm.edu/research/research_databases#LETTER_E) (accessible through the library databases).*
+
+Your policy brief text should be 1,000–1,500 words (excluding references, including executive summary). Submit as a word doc or PDF.
+
+**REVIEW THE GRADING RUBRIC!**
 
 
-## Capstone 3: Policy brief
-**Not yet updated for Fall 2021, review with caution!** 
-[Capstone 03 Overview](files/EC140_Cap3_Specifications.pdf)
 
-[Rubric](files/PolicyBrief_Rubric_EC140.pdf) 
+## Policy Brief Examples
+
+**See Blackboard for student examples**
+
+[Improving Opportunities for Youth with Subsidized Dual Apprenticeships in Côte d'Ivoire](https://www.poverty-action.org/sites/default/files/publications/CDI-Apprenticeship-Policy-Brief_English.pdf): Good example of policy brief, with note that this is one that is focused on *one* research study, so it's a bit different
+
+[The Effects of COVID-19 on Business and Employment in Ghana](https://www.poverty-action.org/sites/default/files/publications/The-Effects-of-COVID-19-on-Business-and-Employment-in-Ghana-November-2020.pdf): Obviously a good Covid-19 connection. This brief is reporting research results, so a bit different. But, it highlights a way of linking Covid-19 to a development outcome.
+
+[Improving Learning Outcomes: Evidence from Rigorous Evidence](https://www.poverty-action.org/sites/default/files/publications/Improving-Learning-Outcomes-December-2019.pdf): This one does a better job summarizing a range of existing literature, which is a close fit to this assignment.
+
+UNC: [A not-so-good policy brief](https://writingcenter.unc.edu/files/2019/10/policy-brief-not-good.pdf) vs a [better policy brief](https://writingcenter.unc.edu/files/2019/10/policy-brief-better.pdf)— annotated!
+
+
+
+## [Policy Brief Rubric](files/PolicyBrief_Rubric_EC140_F21.pdf) 
+
+Download [policy brief rubric!](files/PolicyBrief_Rubric_EC140_F21.pdf)
 
