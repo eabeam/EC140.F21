@@ -458,6 +458,47 @@ Your policy brief text should be 1,000–1,500 words (excluding references, incl
 
 
 
+## Deliverables 
+
+Your assignment will be submitted in three stages. You will be graded on your proposal idea (5%, for completion), draft brief (5%, for completion), and your final brief (90%)
+
+#### Policy brief idea
+
+Submit on Blackboard by **Monday, November 29 @ 11:59pm**
+
+Prepare a 1–2 paragraph "pitch" of your idea. This is fairly informal, but it should include the following: 
+
+- Location of study: Specific country, region within country, etc 
+- Description of the specific challenge and how it is exacerbated by climate change or COVID-19
+- Description of link to a specific SDG
+- Name of your partner (if applicable)
+
+
+
+#### Policy brief draft
+
+Submit on Blackboard by **December 06 (Monday) @ 1:10pm**, and we will peer review in class 
+
+What counts as "complete enough" for a rough draft:
+
+- Content in all six "key elements" of policy brief 
+
+- At least 1 page single spaced 
+
+- At least 2 peer-reviewed academic journal articles included (you need 3 for final)
+
+  
+
+#### RCT proposal final draft
+
+ Submit on Blackboard by **December 13 (Monday) @ 11:59pm**
+
+Review [rubric](files/PolicyBrief_Rubric_EC140_F21.pdf) before submission!
+
+
+
+
+
 ## Policy Brief Examples
 
 **See Blackboard for student examples**
