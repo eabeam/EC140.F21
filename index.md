@@ -456,6 +456,18 @@ Divide your brief into clear, labelled sections:
 
 Your policy brief text should be 1,000–1,500 words (excluding references, including executive summary). Submit as a word doc or PDF.
 
+## Class slides 
+
+[![capstone03_slides.png](capstone03_slides.png)](capstone03_slides.pdf)
+
+
+
+
+
+
+
+
+
 **REVIEW THE GRADING RUBRIC!**
 
 
